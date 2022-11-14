@@ -1,2 +1,23 @@
-# MusicPlayer-app
-通过网易云音乐提供的数据和接口，模仿网易云音乐界面，基于vue、vuex、vue-cli、vant制作的音乐播放器
+# wangyiyun-app
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
+
+1.设置rem
