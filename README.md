@@ -28,3 +28,13 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 4. 底部组件的播放/暂停按键
 5. 显示歌词（待完善）
 6. 读取音乐和歌手的信息
+
+## 页面演示
+### 主页面
+![image](https://user-images.githubusercontent.com/73211829/201839884-81bb00d4-c46f-4ad9-a79b-e86ba5231d52.png)
+### 歌单页面
+![image](https://user-images.githubusercontent.com/73211829/201842665-f96fc020-17cf-4aa3-a6ff-4006af4cfff4.png)
+### 歌曲播放页面
+![image](https://user-images.githubusercontent.com/73211829/201842992-7a3cb00c-6ae4-4cd6-a20f-8b1819837ed7.png)
+
+
