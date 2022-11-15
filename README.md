@@ -26,5 +26,5 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 2. 读取歌单中的歌曲列表
 3. 点击歌曲播放
 4. 底部组件的播放/暂停按键
-5. 读取歌词
+5. 显示歌词（待完善）
 6. 读取音乐和歌手的信息
